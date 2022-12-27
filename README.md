@@ -2,4 +2,4 @@
 
 Control: 'WASD' + mouse
 
-![doom](/sreenshots/0.gif)
+First: open .exe file and play) 
